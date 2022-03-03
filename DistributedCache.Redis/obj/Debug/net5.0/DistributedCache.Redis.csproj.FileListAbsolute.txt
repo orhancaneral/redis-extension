@@ -1,0 +1,12 @@
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\bin\Debug\net5.0\DistributedCache.Redis.deps.json
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\bin\Debug\net5.0\DistributedCache.Redis.dll
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\bin\Debug\net5.0\ref\DistributedCache.Redis.dll
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\bin\Debug\net5.0\DistributedCache.Redis.pdb
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\obj\Debug\net5.0\DistributedCache.Redis.csproj.AssemblyReference.cache
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\obj\Debug\net5.0\DistributedCache.Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\obj\Debug\net5.0\DistributedCache.Redis.AssemblyInfoInputs.cache
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\obj\Debug\net5.0\DistributedCache.Redis.AssemblyInfo.cs
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\obj\Debug\net5.0\DistributedCache.Redis.csproj.CoreCompileInputs.cache
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\obj\Debug\net5.0\DistributedCache.Redis.dll
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\obj\Debug\net5.0\ref\DistributedCache.Redis.dll
+C:\Users\o.eral\source\repos\DistributedCache\DistributedCache.Redis\obj\Debug\net5.0\DistributedCache.Redis.pdb
